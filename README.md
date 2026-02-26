@@ -1,5 +1,6 @@
 Some changes
 Test changes
-anothr test hello from branch
+
+new change
 
 Changes in branch 1
